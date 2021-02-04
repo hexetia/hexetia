@@ -1,4 +1,5 @@
-### Hi there 👋
+### Yay, I'm Lucas 🛀
+Do you also look around imagining improvements in things using technology?
 
 <!--
 **morhogg/morhogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
