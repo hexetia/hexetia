@@ -1,4 +1,4 @@
-### Yay, I'm Lucas 🛀
+### Yo! I'm Lucas 🛀
 Do you also look around imagining improvements in things using technology?
 
 <!--
