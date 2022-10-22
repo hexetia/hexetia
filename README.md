@@ -8,6 +8,6 @@ Do you also look around imagining improvements in things using technology?
 - 🔭 I’m currently working on @TallerWebSolutions
 - 🌱 I’m currently learning more about Software Architecture
 - 💬 Ask me about TDD
-- 📫 How to reach me:  
+- 📫 How to reach me: lucasljj@gmail.com https://lucasdevportfolio.vercel.app/
 - ⚡ Fun fact: I'm wanna to learn how to play Sax
 
