@@ -1,17 +1,13 @@
-### Yo! I'm Lucas 🛀
+### Yo! My name is Lucas Nascimento
 Do you also look around imagining improvements in things using technology?
 
 <!--
-**morhogg/morhogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**hexetia/hexetia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+- 🔭 I’m currently working on @TallerWebSolutions
+- 🌱 I’m currently learning more about Software Architecture
+- 💬 Ask me about TDD
+- 📫 How to reach me:  
+- ⚡ Fun fact: I'm wanna to learn how to play Sax
+
